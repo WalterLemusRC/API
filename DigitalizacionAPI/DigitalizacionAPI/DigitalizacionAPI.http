@@ -1,0 +1,6 @@
+@DigitalizacionAPI_HostAddress = http://localhost:5116
+
+GET {{DigitalizacionAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
